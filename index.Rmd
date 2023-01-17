@@ -31,7 +31,11 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 ```
-
+# Dr.FTN
+```{r}
+summary (cars$speed)
+plot(cars)
+```
 ![](visuals/world_drought.png)
 
 
